@@ -7,9 +7,11 @@
 In general, an n-dimensional vector has n components, making it useful in mathematics, computer graphics, data science, and physics.
 
 **Description**:
+
 A simple **multi-dimensional vector class** implemented in Python, demonstrating **object-oriented programming** and **operator overloading**.
 
 **Features**:
+
 This project is a beginner-friendly Python implementation of a Vector class that supports operations on n-dimensional vectors, such as:
 - Create vectors of any dimension (e.g., 2D, 3D, etc.)
 - Indexing and updating vector elements
